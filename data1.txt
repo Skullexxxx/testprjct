@@ -1,0 +1,5 @@
+Name	Brand	Price	Rating
+Iphone	Apple	999	4,90
+Galaxy	Sumsung	1199	4,80
+Redmi note	Xiaomi	199	4,60
+Poco X5 pro	Xiaomi	299	4,40
